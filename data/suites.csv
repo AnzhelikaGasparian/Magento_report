@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This test verifies that attempting to change password with an incorrect current password fails.","7772","Incorrect Current Password Test","","Sun Sep 15 21:22:45 AMT 2024","passed","Sun Sep 15 21:22:53 AMT 2024","","Account Settings","",""
+"This test verifies that changing password fails when confirmation password does not match.","5606","Password Mismatch Test","","Sun Sep 15 21:22:53 AMT 2024","passed","Sun Sep 15 21:22:58 AMT 2024","","Account Settings","",""
+"This test verifies that a user can successfully change their password.","10340","Successful Password Change Test","","Sun Sep 15 21:22:58 AMT 2024","passed","Sun Sep 15 21:23:09 AMT 2024","","Account Settings","",""
+"This test verifies that login fails with invalid credentials.","7099","Invalid Login Test","","Sun Sep 15 21:22:30 AMT 2024","passed","Sun Sep 15 21:22:38 AMT 2024","","User Authentication","",""
+"This test verifies that login succeeds with valid credentials.","7374","Valid Login Test","","Sun Sep 15 21:22:38 AMT 2024","passed","Sun Sep 15 21:22:45 AMT 2024","","User Authentication","",""
